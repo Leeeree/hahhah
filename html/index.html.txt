@@ -6,10 +6,10 @@
     <link rel ="stylesheet" href="../css/index.css" type="text/css">
 </head>
 <body>
-    <header>leeruiÄãºÃ</header>
+    <header>leeruiÃ„Ã£ÂºÃƒ</header>
     <div class="main">
         1234567890
     </div> 
-    <footer>¹þ¹þ¹þ¹þ¹þ¹þ¹þ¹þ¹þ</footer>
+ Â   <footer>å“ˆå“ˆå“ˆå“ˆå“ˆå“ˆå“ˆ</footer>
 </body>
 </html>
