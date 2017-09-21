@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hahhah</title>
+    <link rel ="stylesheet" href="../css/index.css" type="text/css">
+</head>
+<body>
+    <header>leerui低挫</header>
+    <div class="main">
+        1234567890
+    </div> 
+    <footer>込込込込込込込込込</footer>
+</body>
+</html>
